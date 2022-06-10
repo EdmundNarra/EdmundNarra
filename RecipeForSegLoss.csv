@@ -1,0 +1,24 @@
+﻿"3211,HideUnwantedChapters"
+3064
+"3050,WAM Warehouse 38_2019,1,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\WAM Warehouse 38_2019.mdb"
+"3055,WAM Warehouse 38_2019"
+3063
+"3050ECO02_3.02_.mdb,0,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\ECO02_3.02_.mdb"
+"3053,ECO02_3.02_.mdb"
+"3200,load flow,1"
+"3208,C:\Users\enarra\Desktop\RPA DATA\OUTPUT CSVs\Results_Per_Feeder_Sim\ECO02_3.02_.mdb,1"
+3063
+"3050ECO03_4.54_.mdb,0,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\ECO03_4.54_.mdb"
+"3053,ECO03_4.54_.mdb"
+"3200,load flow,1"
+"3208,C:\Users\enarra\Desktop\RPA DATA\OUTPUT CSVs\Results_Per_Feeder_Sim\ECO03_4.54_.mdb,1"
+3063
+"3050GAI01_5.49__-80pf.mdb,0,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\GAI01_5.49__-80pf.mdb"
+"3053,GAI01_5.49__-80pf.mdb"
+"3200,load flow,1"
+"3208,C:\Users\enarra\Desktop\RPA DATA\OUTPUT CSVs\Results_Per_Feeder_Sim\GAI01_5.49__-80pf.mdb,1"
+3063
+"3050GAI02_3.36_.mdb,0,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\GAI02_3.36_.mdb"
+"3053,GAI02_3.36_.mdb"
+"3200,load flow,1"
+"3208,C:\Users\enarra\Desktop\RPA DATA\OUTPUT CSVs\Results_Per_Feeder_Sim\GAI02_3.36_.mdb,1"

@@ -1,0 +1,29 @@
+3211,HideUnwantedChapters
+3064
+3050,WAM Warehouse 38_2019,1,0,C:\Users\enarra\Desktop\RPA DATA\INPUTS\WAM Warehouse 38_2019.mdb
+3055,WAM Warehouse 38_2019
+3063
+3050,BUH04_3.63_,0,0,C:\RPA\FeederLossSimulationAutomation\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\April\BUH04_3.63_.mdb
+3053,BUH04_3.63_
+3200,load flow,1
+3200,load flow,1
+3208,C:\RPA\FeederLossSimulationAutomation\OUTPUT CSVs\Results_Per_Feeder_Sim\BUH04_3.63_,1
+3063
+3050,TIB02_3.26_,0,0,C:\RPA\FeederLossSimulationAutomation\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\April\TIB02_3.26_.mdb
+3053,TIB02_3.26_
+3200,load flow,1
+3200,load flow,1
+3208,C:\RPA\FeederLossSimulationAutomation\OUTPUT CSVs\Results_Per_Feeder_Sim\TIB02_3.26_,1
+3063
+3050,TUG03_5.06_,0,0,C:\RPA\FeederLossSimulationAutomation\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\April\TUG03_5.06_.mdb
+3053,TUG03_5.06_
+3200,load flow,1
+3200,load flow,1
+3208,C:\RPA\FeederLossSimulationAutomation\OUTPUT CSVs\Results_Per_Feeder_Sim\TUG03_5.06_,1
+3063
+3050,VIC01_4.36_,0,0,C:\RPA\FeederLossSimulationAutomation\INPUTS\MDBs FOR SIMULATION\RPD CHECKING\April\VIC01_4.36_.mdb
+3053,VIC01_4.36_
+3200,load flow,1
+3200,load flow,1
+3208,C:\RPA\FeederLossSimulationAutomation\OUTPUT CSVs\Results_Per_Feeder_Sim\VIC01_4.36_,1
+3010,Done Simulation!
